@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="pembayaran">
+        <item>Bank Mandiri</item>
+        <item>Bank BCA</item>
+        <item>Cash On Delivery</item>
+    </string-array>
+</resources>
